@@ -16,11 +16,11 @@
 </div>
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwoongyoon&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   
   ### 🛠 SKILL 🛠
  
-  <img src="https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle"/>
+  <img src="https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-PyTorch-6DB33F?style=flat-square&logo=PyTorch&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <br>
