@@ -11,9 +11,10 @@
   🎓 서강대학교 컴퓨터공학과
  
 
-  <br>
+<br>
  
 </div>
+
 <div align="center">
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwoongyoon&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
@@ -27,7 +28,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
-  <br>
+  
   
  
 </div>
