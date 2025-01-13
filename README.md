@@ -23,3 +23,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwoongyoon&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   
 </div>
+
+🏅 대회 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 대회명                                         | 주최                             | Task                        | Rank      | 역할     | 기타           |
+|----------------------------------------------|-----------------------------------------|------------------------------|--------------|--------|----------------|
+| 온라인 채널 제품 판매량 예측 AI 온라인 해커톤    | Dacon / LG AI Research                 |  Time Series               | 85/747           | 팀원   | -              |
+| HD 현대 AI Challenge                      | Dacon /  HD한국조선해양 AI Center              | Regression                | 120/330         | 팀원   | -              |
+| 제주 특산물 가격 예측 AI 경진대회              | Dacon / 제주특별자치도                      | Time Series                    | 193/1093   | 팀원   | -              |
+| 대구 교통사고 피해 예측 AI 경진대회   | Dacon  /한국자동차연구원        | Regression       | 9/942 (상위 1%)   | 팀원  | -    |
+| MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발  | 엘리스  / LG AI Research             | Binary Classification       |80/700  | 팀원  | -    |
+| 2024 생명연구자원 AI 활용 경진대회: 인공지능 활용 부분    | Dacon  /과학기술정보통신부   |  Classification | 39/940      | 팀장   | -              |
+| 제품 이상 여부 판별 프로젝트             |  엘리스  / LG AI Research   | Binary Classification | 50/755 | 팀원 | - |
+| 데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로| Dacon /농림축산식품부| Time Series    | 1/550    | 팀원   | 농림축산식품부장관상           |
