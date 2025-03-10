@@ -36,3 +36,4 @@
 | 2024 생명연구자원 AI 활용 경진대회: 인공지능 활용 부분    | Dacon  /과학기술정보통신부   |  Classification | 39/940      | 팀장   | -              |
 | 제품 이상 여부 판별 프로젝트             |  엘리스  / LG AI Research   | Binary Classification | 50/755 | 팀원 | - |
 | 데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로| Dacon /농림축산식품부| Time Series    | 1/550    | 팀원   | 농림축산식품부장관상           |
+|난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 | Dacon/ LG AI Research | Binary Classification | 7/794 (상위 1%) | 팀원 | 본선 진출 |
